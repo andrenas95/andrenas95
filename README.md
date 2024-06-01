@@ -1,3 +1,6 @@
+
+Olá, me chamo André 
+
 </div>
 - 🔭 Fazendo Projetos ...
 - 🌱 Estudando JavaScript e o Typescript ...
